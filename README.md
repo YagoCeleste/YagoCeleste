@@ -15,5 +15,5 @@ Sou estudante de Ciência da Computação e atuo na área de TI com foco em reso
 * ⚙️ Desenvolvendo projetos Full Stack e scripts de consumo de dados
 
 ### 📫 Como me encontrar
-* **LinkedIn:** [Acesse meu perfil](https://linkedin.com/in/YagoCeleste)
+* LinkedIn: [Acesse meu perfil](https://linkedin.com/in/yago-celeste)
 * **E-mail:** yagoceleste8@gmail.com
